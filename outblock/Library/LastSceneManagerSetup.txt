@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/OutBlock/_Workspace/Alexander_Dyachenko_Homeworks/first_level.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
